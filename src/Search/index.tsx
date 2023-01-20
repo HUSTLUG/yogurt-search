@@ -23,7 +23,6 @@ const Search = ({engine,setEngine}:propType) => {
         if (e.which===13){
             search()
         }
-        search()
     }
     const search=()=>{
         switch (site){
