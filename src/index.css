@@ -1,0 +1,32 @@
+.app-root{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.app-bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -10;
+    width: 100vw;
+    height: 100vh;
+    opacity: 80%;
+}
+.app-bg2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -9;
+    width: 100vw;
+    height: 100vh;
+    background-color: #0007;
+}
+.arco-select-view-value{
+    height: 32px;
+}
+.arco-select-view-selector{
+    align-items: center;
+}
