@@ -1,6 +1,7 @@
-RusTorrent
+
+yogurt-search
 ----
-This is a bitorrent downloader written by tauri and react.
+A comprehensive search function provider.
 
 (Under Construction)
 ----
